@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a student.
+I am Zhuolin Liu, a student from University of Science and Technology of China.
 <!--
 **liuzlw/liuzlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
